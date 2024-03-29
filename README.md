@@ -23,10 +23,14 @@ STEP:7 Select the Implementation in the Sources Window and select the required f
 
 STEP:8  Compare the output with logic truth table.
 
-# Truth Table and Circuit Diagram
-![image](https://github.com/RESMIRNAIR/FULL_SUBTRACTOR/assets/154305926/351addef-f7bb-4862-9817-616a41b4c882)
+# Circuit Diagram
+![fullsubtractorcircuit](https://github.com/Shaiksushma123/FULL_SUBTRACTOR/assets/159005642/c59715ee-42d7-45a0-848a-82caf6d1caa6)
 ![image](https://github.com/RESMIRNAIR/FULL_SUBTRACTOR/assets/154305926/906152b8-63bc-4f70-9132-6b6b4420b22d)
 ![image](https://github.com/RESMIRNAIR/FULL_SUBTRACTOR/assets/154305926/7d480140-153a-4a7e-a6d2-5323c6bd4974)
+# Truth Table
+![Full Subtractor truthtable](https://github.com/Shaiksushma123/FULL_SUBTRACTOR/assets/159005642/4c12f4f7-4410-4df0-8e7d-55acb09d14e9)
+
+
 
 # Program
 module full_sub(a,b,bin,diff,borrow);
